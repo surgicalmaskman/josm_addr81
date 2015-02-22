@@ -3,7 +3,8 @@
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
 	<item name="addr81">
 		<text key="addr:quater" text="mati" />
-		<text key="addr:neighbourhood" text="tyome" /> 
+		<text key="addr:neighbourhood" text="tyoume" /> 
 		<text key="addr:block_number" text="gaiku,banti" />
+		<text key=addr:housenumber" text="jyuukyo,gou" />
 	</item>
 </presets>
